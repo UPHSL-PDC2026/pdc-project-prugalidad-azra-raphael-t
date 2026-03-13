@@ -5,7 +5,9 @@
 ### Tools and Technologies Used
 
 Anaconda Navigator - This was used to launch Jupyter Notebook, where the code is written.
+
 Jupyter Notebook - A web-based interactive coding program, where I wrote the code.
+
 Python - The programming language used to create this program.
 
 ### Instructions for Running the Project
